@@ -1,0 +1,11 @@
+.env
+.flaskenv
+env/
+env*
+pyvenv
+Scripts/
+venv/
+.idea
+Lib/
+site-packages/
+__pycache__/
